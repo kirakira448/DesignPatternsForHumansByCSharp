@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Creational;
 using Structural;
+using Behavioral;
 
 #region Creational Design Patterns
 // SimpleFactory.DemonstrateSimpleFactory();
@@ -18,10 +19,20 @@ using Structural;
 // Decorator.DemonstrateDecorator();
 // Facade.DemonstrateFacade();
 // Flyweight.DemonstrateFlyweight();
-Proxy.DemonstrateProxy();
+// Proxy.DemonstrateProxy();
 #endregion
 
 #region Behavioral Design Patterns
+// ChainOfResponsibility.DemonstrateChainOfResponsibility();
+// Command.DemonstrateCommand();
+// Iterator.DemonstrateIterator();
+// Mediator.DemonstrateMediator();
+// Memento.DemonstrateMemento();
+// Observer.DemonstrateObserver();
+// Visitor.DemonstrateVisitor();
+// Strategy.DemonstrateStrategy();
+// State.DemonstrateState();
+TemplateMethod.DemonstrateTemplateMethod();
 #endregion
 
 
